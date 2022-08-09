@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root "greet", to: 'greetings#index'
+  root 'greetings#index'
 end
