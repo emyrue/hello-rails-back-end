@@ -1,24 +1,59 @@
-# README
+# Budget App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A React - Redux - Rails APP for getting random messages.
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+To get a local copy of the project, follow these steps: 
+1. Follow the instructions [here](https://github.com/emyrue/hello-react-front-end)
+2. Open the terminal and navigate to the folder where you would like to put these files.
+3. Type the following commands into the terminal: 
+ ```
+ git clone https://github.com/emyrue/hello-rails-back-end.git
+ ```
+ ```
+ cd hello-rails-back-end
+ ```
 
-* System dependencies
+```
+bundle install
+```
+```
+rails db:create
+```
+```
+rails db:migrate
+```
+```
+rails db:seed
+```
 
-* Configuration
+```
+'rails s' to start the server locally
+```
 
-* Database creation
+## Author
 
-* Database initialization
+👤 **Emily Robertson**
 
-* How to run the test suite
+- GitHub: [@emyrue](https://github.com/emyrue)
+- Twitter: [@EmyrueRobertson](https://twitter.com/EmyrueRobertson)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emilyruthrobertson/)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues, and feature requests are welcome!
 
-* ...
+Feel free to check the [issues page](https://github.com/hsztan/Hello-Rails-React/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to FreeCodeCamp for the [React-Rails Tutorial](https://www.freecodecamp.org/news/how-to-create-a-rails-project-with-a-react-and-redux-front-end-8b01e17a1db/)
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
