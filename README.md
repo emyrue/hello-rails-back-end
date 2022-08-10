@@ -2,6 +2,9 @@
 
 > A React - Redux - Rails APP for getting random messages.
 
+## Link to React App
+[Link](https://github.com/emyrue/hello-react-front-end)
+
 ## Getting Started
 
 To get a local copy of the project, follow these steps: 
